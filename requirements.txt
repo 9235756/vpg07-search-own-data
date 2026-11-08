@@ -1,0 +1,9 @@
+# Python 3.11+ (этого требуют docling-haystack и pinecone-haystack)
+haystack-ai>=2.28
+docling>=2.32,<3
+docling-haystack>=3.0
+pinecone-haystack>=7.0
+pyTelegramBotAPI
+python-dotenv
+requests
+pytest
